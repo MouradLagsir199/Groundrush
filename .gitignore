@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.blend[0-9]
+*.log
+/Blender/**/iterations/
+
+# Preserve local working reference collections without publishing them.
+/Museumplein/
+/Misha/
